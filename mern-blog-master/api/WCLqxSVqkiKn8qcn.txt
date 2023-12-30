@@ -1,0 +1,3 @@
+WCLqxSVqkiKn8qcn
+
+mongodb+srv://gunasekhar0002:<password>@cluster0.bmi7oai.mongodb.net/
